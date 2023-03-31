@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ShakyGround</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your Name</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="description_1">If You Are in the Middle of an Earthquake, Look at Your Surroundings. If you are near tall shelves, a TV, windows, or anything that can fall or break, then don\'t go near them. You should move away immediately. If you don\'t, they may fall or break and injure you. If you know that an earthquake is coming, then do your best to secure things that can fall. After you are sure that you are not near dangerous objects, then you should drop down to the ground. It is better to be under a desk or a table, as it will protect you from falling objects. Remember, even after the earthquake stops, there might be weak quakes after, so it\'s better to wait for one to two minutes after the earthquake. If there are no earthquakes within one or two minutes, check if anyone near you needs medical assistance. Once everyone is safe, inspect gas pipes and electrical cables for damage. For safety, it\'s best to turn off the gas and electricity. If you are in countries near the Ring of Fire, it is important to have a designated meeting place in case of emergency. If possible, evacuate outside.</string>
+    <string name="main_category_title">Main settings</string>
+    <string name="notifications_title">Allow notifications</string>
+    <string name="location_title">Enable location</string>
+</resources>
